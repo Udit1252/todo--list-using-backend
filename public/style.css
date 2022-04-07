@@ -1,0 +1,29 @@
+*{
+    background-color: rgb(106, 199, 199);
+    
+}
+.inp{
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 6px 6px 6px 6px;
+}
+.btn{
+color: blue;
+}
+.wrapper{
+    background-color: antiquewhite;
+  text-align: center;
+    border: 3px solid black;
+    border-radius: 10px 10px 10px 10px ;
+    margin: 10px;
+    padding: 10px;
+    height: 50vh;
+    width: 20vw;
+}
+h1{
+    font-family: 'Lobster', cursive;
+}
+footer{
+    font-family: 'Dancing Script', cursive;
+    padding: 10px;
+}
